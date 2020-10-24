@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	background-color: black;
+	text-align: center;
+}
+
+header{
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: green;
+
+}
+
+h1{
+	color: green;
+}
+
+h2{
+	color: red;
+
+}
+
+header h1{
+	color: green;
+	font-size: 50px
+	
+
+	
+
+}
+
+header img{
+	border-radius: 150px;
+	width: 150px;
+	border: 7px solid aquamarine;
+}
+main{
+	background-color: black;
+	color: white;
+	margin: 0 auto;
+	padding: 0 20px;
+
+
+}
+
+footer{
+	color: white;
+	font-style: italic;
+	font-size: 25px;
+}
