@@ -1,6 +1,5 @@
 body{
 	margin: 0;
-	background-color: black;
 	text-align: center;
 }
 
@@ -8,21 +7,23 @@ header{
 	
 	padding-top: 50px;
 	padding-bottom: 50px;
-	color: green;
+	color: black;
+	background-color: red;
 
 }
 
 h1{
-	color: green;
+	color: black;
 }
 
 h2{
 	color: red;
+	text-decoration: underline;
 
 }
 
 header h1{
-	color: green;
+	color: black;
 	font-size: 50px
 	
 
@@ -33,11 +34,11 @@ header h1{
 header img{
 	border-radius: 150px;
 	width: 150px;
-	border: 7px solid aquamarine;
+	border: 7px solid black;
 }
 main{
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 	margin: 0 auto;
 	padding: 0 20px;
 
@@ -45,7 +46,9 @@ main{
 }
 
 footer{
-	color: white;
+	color: black;
 	font-style: italic;
 	font-size: 25px;
+	background-color: aquamarine; 
 }
+
